@@ -2,7 +2,7 @@ import os
 import sys
 from configparser import ConfigParser
 
-from ChatBot.__main__ import ChatBot
+from ChatBot.main import ChatBot
 
 
 def main():
