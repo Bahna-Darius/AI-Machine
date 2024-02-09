@@ -1,19 +1,16 @@
 import pandas as pd
 
 
-summer = pd.read_csv('summer.csv')
+df = pd.read_csv('titanic.csv')
 
-ps = summer["Country"]
-head = ps.head()
-tail = ps.tail()
-slicee = ps.iloc[2]
-slice_loc = summer.set_index(keys="Country")
-slice_loc2 = slice_loc.loc["USA"]
+copy_df = df.copy()
+select_df = df[["sex", "age"]]
+select_df.loc[1, "age"] = 30
 
 
-print(slice_loc2)
+print(select_df)
 print("\n")
-print(type(ps))
+print(type(select_df))
 
 
 
