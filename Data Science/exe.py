@@ -1,14 +1,19 @@
 import pandas as pd
 
 
-df = pd.read_csv('summer.csv')
+summer = pd.read_csv('summer.csv')
 
-df = df["Athlete"].value_counts().index[0]
+ps = summer["Country"]
+head = ps.head()
+tail = ps.tail()
+slicee = ps.iloc[2]
+slice_loc = summer.set_index(keys="Country")
+slice_loc2 = slice_loc.loc["USA"]
 
 
-print(df)
+print(slice_loc2)
 print("\n")
-print(type(df))
+print(type(ps))
 
 
 
