@@ -7,9 +7,12 @@ This project is dedicated to learning and developing skills in the field of Mach
 
 ## Structure
 
-- `Data Science/`
+- `Data Science`
   - `Pandas.ipynb`: A Jupyter notebook exploring the functionalities of the Pandas library for data manipulation and analysis.
   - `TensorFlow.ipynb`: A Jupyter notebook introducing the basic concepts of TensorFlow and presenting practical examples of machine learning model implementation.
+  - `matplotlib` It is for graphical representation of data
+<img src="https://imgur.com/x4UwSO2.png">
+<img src="https://imgur.com/22pxJu1.png">
 
 ## How to Use This Project
 
