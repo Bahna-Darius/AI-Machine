@@ -7,4 +7,9 @@
 
 # Classification
 ## Este atunci cand incercam sa prezicem o valoare discreta, cum ar fi daca un pacient are cancer sau nu, daca un email este spam sau nu, daca un client va cumpara un produs sau nu, etc.
-## Adica, incercam sa prezicem la care clasa apartine o anumita observatie. ( preziectam o clasa, o categorie )
+## Adica, incercam sa prezicem la care clasa apartine o anumita observatie. (preziectam o clasa, o categorie )
+
+---
+
+- Variabilele dependente sunt variabilele pe care incercam sa le prezicem (datele de iesire).
+- Variabilele independente sunt variabilele pe care le folosim pentru a prezice variabilele dependente (datele de intrare).
