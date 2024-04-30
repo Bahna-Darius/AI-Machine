@@ -18,6 +18,9 @@
 4. **Create a Model**
     Crearea unui model de Machine Learning. Acesta presupune selectarea unui algoritm si analiza datelor. Fiecare algoritm prezinta avantaje si dezavantaje in ceea ce priveste performanta si viteza.
 - Alegerea unui algoritm depinde de tipul de date si de problema pe care dorim sa o rezolvam.
+- Când avem date cu valori care diferă mult între ele, feature scaling ne ajută să le aducem la același nivel pentru a evita ca caracteristicile cu valori mari să domine procesul de învățare al algoritmului.
+- feature scaling nu afectează relațiile dintre caracteristici și variabila țintă (adică nu schimbă natura datelor, ci doar scala valorile).
+- În concluzie, feature scaling ajută algoritmul să învețe mai eficient și să funcționeze mai bine, dar nu afectează capacitatea sa de a face preziceri corecte atâta timp cât relațiile dintre caracteristici și variabila țintă rămân aceleași.
 
 5. **Train the Model**
     Antrenarea modelului presupune folosirea setului de antrenament pentru a invata modelul. Acesta va incerca sa gaseasca relatii intre date si sa faca predictii.
