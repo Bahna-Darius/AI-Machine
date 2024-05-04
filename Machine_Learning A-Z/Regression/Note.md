@@ -1,0 +1,3 @@
+# Regression
+## Regression is a technique used to model and analyze the relationship between a dependent variable and one or more independent variables. It is used to predict the value of the dependent variable based on the value of one or more independent variables. It is mostly used for forecasting and predicting an outcome.
+## This technique is use to predict numerical values. It is used to predict the value of a continuous variable based on the value of one or more independent variables. It is used to forecast and predict an outcome.
