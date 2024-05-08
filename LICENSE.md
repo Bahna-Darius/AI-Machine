@@ -1,4 +1,4 @@
-# TMachine learning AI - Personal License
+# Machine learning AI - Personal License
 
 **Copyright (c) [2023] [Bahna-Darius]**
 
