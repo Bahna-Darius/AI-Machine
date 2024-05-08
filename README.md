@@ -31,10 +31,10 @@ This project is dedicated to learning and developing skills in the field of Mach
 
 ## How to Use This Project
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local computer after obtaining approval from the author!
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
 3. Open and run each notebook in a Python development environment (preferably Anaconda or Jupyter Notebook).
-4. Explore the code, make modifications, and test different ideas to enhance your understanding in the field of Machine Learning.
+4. Explore the code.
 
 ## License
 
