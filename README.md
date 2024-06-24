@@ -13,20 +13,65 @@ This project is dedicated to learning and developing skills in the field of Mach
   - `SeaBorn` Exploring the functionalities of the SeaBorn library for data visualization.
   - `Statistics` Exploring the functionalities of the Statistics library for statistical operations.
 
-<img src="https://imgur.com/6GrbQaq.png">
-<img src="https://imgur.com/22pxJu1.png">
 
-- `Machine_Learning A-Z`
-  - `Data Preprocessing` Exploring the functionalities of the Scikit-learn library for data preprocessing.
-  - `Regression` Exploring the functionalities of the Scikit-learn library for regression models.
-  - `Classification` Exploring the functionalities of the Scikit-learn library for classification models.
-  - `Clustering` Exploring the functionalities of the Scikit-learn library for clustering models.
-  - `Association Rule Learning` Exploring the functionalities of the Scikit-learn library for association rule learning.
-  - `Reinforcement Learning` Exploring the functionalities of the Scikit-learn library for reinforcement learning.
-  - `Natural Language Processing` Exploring the functionalities of the Scikit-learn library for natural language processing.
-  - `Deep Learning` Exploring the functionalities of the Scikit-learn library for deep learning.
-  - `Dimensionality Reduction` Exploring the functionalities of the Scikit-learn library for dimensionality reduction.
-  - `Model Selection` Exploring the functionalities of the Scikit-learn library for model selection.
+
+# `Machine Learning` :
+## Data Preprocessing
+Exploring the functionalities of the Scikit-learn library for data preprocessing.
+
+## Regression
+Exploring the functionalities of the Scikit-learn library for regression models.
+- **Linear Regression**
+- **Polynomial Regression**
+- **Support Vector Regression**
+- **Decision Tree Regression**
+- **Random Forest Regression**
+
+## Classification
+Exploring the functionalities of the Scikit-learn library for classification models.
+- **Logistic Regression**
+- **K-Nearest Neighbors**
+- **Support Vector Machine**
+- **Kernel SVM**
+- **Naive Bayes**
+- **Decision Tree Classification**
+- **Random Forest Classification**
+
+## Clustering
+Exploring the functionalities of the Scikit-learn library for clustering models.
+- **K-Means**
+- **Hierarchical Clustering**
+
+## Association Rule Learning
+Exploring the functionalities of the Scikit-learn library for association rule learning.
+- **Apriori**
+- **Eclat**
+
+## Reinforcement Learning
+Exploring the functionalities of the Scikit-learn library for reinforcement learning.
+- **Upper Confidence Bound**
+- **Thompson Sampling**
+
+## Natural Language Processing
+Exploring the functionalities of the Scikit-learn library for natural language processing.
+- **Bag of Words**
+
+## Deep Learning
+Exploring the functionalities of the Scikit-learn library for deep learning.
+- **Artificial Neural Networks**
+- **Convolutional Neural Networks**
+
+## Dimensionality Reduction
+Exploring the functionalities of the Scikit-learn library for dimensionality reduction.
+- **Principal Component Analysis**
+- **Linear Discriminant Analysis**
+- **Kernel PCA**
+
+## Model Selection
+Exploring the functionalities of the Scikit-learn library for model selection.
+- **CatBoost**
+- **XGBoost**
+- **LightGBM**
 
 
 ## How to Use This Project
